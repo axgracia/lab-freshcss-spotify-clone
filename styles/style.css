@@ -6,3 +6,10 @@ Green: #00B172
 White: #FFF
 
 */
+
+.navbar {
+    position: fixed;
+    display: flex;
+    background-color: #00B172;
+    color: #FFF;
+}
