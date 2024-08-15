@@ -7,9 +7,44 @@ White: #FFF
 
 */
 
-.navbar {
+body {
+    background-color: #15685a;
+    width: 200px;
+    height: 100px;
+ 
+
+nav {
     position: fixed;
     display: flex;
-    background-color: #00B172;
-    color: #FFF;
+    
+    background-color: #fafcfb;
+    color: #010101;
+
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    font-display: space-around;
+    align-items: right;
+    margin: 0;
+    padding: 0;
+    
+
+main {
+    background: white;
+    margin: 20px 0;
+    padding: 10px;
+
+    main div:nth-child(1) {
+
+
+
+        main div:nth-child(2) {
+
+
+      }
+}
+}
+}
+}
 }
